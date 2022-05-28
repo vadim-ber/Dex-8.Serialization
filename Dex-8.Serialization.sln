@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dex-8.Serialization", "Dex-8.Serialization.csproj", "{0F7E0431-EE72-4AD6-B985-0236DD3C9BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F7E0431-EE72-4AD6-B985-0236DD3C9BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7E0431-EE72-4AD6-B985-0236DD3C9BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7E0431-EE72-4AD6-B985-0236DD3C9BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7E0431-EE72-4AD6-B985-0236DD3C9BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA076BEB-774A-4EE2-B7CD-D0DBB749F5A7}
+	EndGlobalSection
+EndGlobal
